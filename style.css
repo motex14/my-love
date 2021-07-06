@@ -40,10 +40,65 @@ body{
 }
 .second-text{
   margin-left: 20%;
+  color: #575757;
     
 }
 #section2id{
     background-image: url(image/Frame\ 581.jpg);
     background-repeat: no-repeat;
    
+}
+.section-no-3{
+    text-align: center;
+    color: #575757;
+    line-height: 0%;
+}
+.section-no-3 p{
+    font-size: 20px;
+    line-height: 0px;
+}
+
+.box-main-div{
+    box-shadow: 2px 2px 2px 2px  #e2e2e2;
+    border-radius: 5%;
+    padding:20px 20px 20px 20px;
+    width: 290px;
+    height: 400px;
+    margin-left: 88px;
+    border-style: none;
+
+}
+
+#img02{
+    
+    height: 220px;
+}
+.box-section{
+    display: flex;
+}
+.box-main-div p{
+    line-height: 23px;
+    font-size: 25px;
+    color:  #575757;
+}
+.section-no-3{
+    padding: 50px;
+}
+.box-section{
+    background-color: #fdfcfc;
+    padding: 55px;
+}
+.last-section{
+
+    border: 1px solid black;
+    border-radius: 15px;
+    box-shadow: 10px 10px 10px 10px  #e2e2e2;
+    
+}
+.text7{
+   
+text-align: center;
+float: left;
+  width: 33.33%;
+  padding: 50px;
 }
