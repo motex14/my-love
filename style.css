@@ -1,11 +1,14 @@
 body{
     font-family: 'Poppins', sans-serif;
     font-size: 35px;
-    padding: 5%;
+    padding: 1%;
+    
 }
+
 
 .flexible-section{
     display: flex;
+   
     
 
 }
@@ -25,8 +28,9 @@ body{
     text-decoration: none;
     border-radius: 30px;
     color: white;
-    padding: 10px;
+    padding: 13px 30px;
     font-size: 15px;
+   
 }
 .orange{
     color: orange;
@@ -34,4 +38,12 @@ body{
 .header-color{
     color: #575757;
 }
-
+.second-text{
+  margin-left: 20%;
+    
+}
+#section2id{
+    background-image: url(image/Frame\ 581.jpg);
+    background-repeat: no-repeat;
+   
+}
